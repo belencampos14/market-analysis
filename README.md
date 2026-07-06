@@ -164,10 +164,10 @@ El proyecto fue desarrollado utilizando Git y GitHub mediante ramas independient
 
 | Integrante | Responsabilidad |
 |------------|-----------------|
-| Integrante 1 | Limpieza del dataset |
-| Integrante 2 | Análisis estadístico |
-| Integrante 3 | Generación de gráficos |
-| Integrante 4 | Documentación, README y configuración del proyecto |
+| Belen Campos | Limpieza del dataset |
+| Hitler Campoverde | Análisis estadístico |
+| Edgar Crespo | Generación de gráficos |
+| Adrian Lara | Documentación, README y configuración del proyecto |
 
 ---
 
